@@ -1,1 +1,5 @@
-# UAS_Algoritma_Struktur_Data_Kelompok-5-B
+Pembagian Tugas
+
+Anggota 1 - Muzni : Queue & Stack
+Anggota 2 - Aksya : BST
+Anggota 3 - Awang : Menu & Heap
